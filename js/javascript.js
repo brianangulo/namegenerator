@@ -8,7 +8,9 @@ function getName(){
   // returning grabbed name
   return name;
 }
-
+/**
+ * Renders name to the screen
+ */
 function renderName() {
     // getting name returned by above function and storing it
     // into variable for usage
